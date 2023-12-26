@@ -1,5 +1,5 @@
 # Superstore Analytics
-Welcome to the Superstore Analytics repository! This project is a comprehensive analysis of sales data from the Superstore dataset, providing insights into sales trends, product categories, and visualizations to aid in decision-making.
+Superstore Analytics repository shows comprehensive analysis of sales data from the Superstore dataset, providing insights into sales trends, product categories, and visualizations to aid in decision-making.
 
 ## Key Features
 #### Sales Analysis by Country:
